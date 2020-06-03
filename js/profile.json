@@ -16,231 +16,105 @@
   },
   "educations": [
     {
-      "periodStart": "July 2014",
-      "periodEnd": "May 2018",
-      "course": "B.Tech Information Technology",
-      "score": "7.59 CGPA",
-      "inst": "Walchand College of Engineering, Sangli",
-      "board": "Shivaji University",
+      "periodStart": "August 2017",
+      "periodEnd": "May 2021",
+      "course": "B.E. Information Technology",
+      "score": "9.1 CGPA",
+      "inst": "G H Patel College of Engineering & Technology",
+      "board": "Gujarat Technological University",
       "courses": [
         {
-          "courseCode": "3IT202",
+          "courseCode": "2130702",
           "courseName": "Data Structures",
-          "courseScore": "9/10",
+          "courseScore": "AB",
           "sn": 1
         },
         {
-          "courseCode": "3IT304",
-          "courseName": "Computer Algorithms",
-          "courseScore": "7/10",
+          "courseCode": "2130703",
+          "courseName": "Database Management Systems",
+          "courseScore": "BB",
           "sn": 2
         },
         {
-          "courseCode": "3IT331",
-          "courseName": "Machine Learning",
-          "courseScore": "10/10",
+          "courseCode": "2131004",
+          "courseName": "Digital Electronics",
+          "courseScore": "BB",
           "sn": 3
         },
         {
-          "courseCode": "3OE---",
-          "courseName": "Data Analytics",
-          "courseScore": "8/10",
+          "courseCode": "2110003",
+          "courseName": "Computer Programming and Utilization",
+          "courseScore": "BB",
           "sn": 4
         },
         {
-          "courseCode": "3IT211",
-          "courseName": "Theory of Computation",
-          "courseScore": "8/10",
+          "courseCode": "2140702",
+          "courseName": "Operating System",
+          "courseScore": "BB",
           "sn": 5
         },
         {
-          "courseCode": "3IT201",
-          "courseName": "Discrete Mathemactics",
-          "courseScore": "7/10",
+          "courseCode": "2140705",
+          "courseName": "Object Oriented Programming With C++",
+          "courseScore": "BC",
           "sn": 6
         },
         {
-          "courseCode": "3IT303",
-          "courseName": "Operating System",
-          "courseScore": "8/10",
-          "sn": 10
-        },
-        {
-          "courseCode": "3IT322",
-          "courseName": "Unix Operating System",
-          "courseScore": "8/10",
-          "sn": 11
-        },
-        {
-          "courseCode": "3IT301",
-          "courseName": "Database Engineering",
-          "courseScore": "9/10",
-          "sn": 12
-        },
-        {
-          "courseCode": "3IT321",
-          "courseName": "Advanced Database Engineering",
-          "courseScore": "9/10",
-          "sn": 13
-        },
-        {
-          "courseCode": "3IT204",
-          "courseName": "Data Communication and Networking",
-          "courseScore": "7/10",
-          "sn": 15
-        },
-        {
-          "courseCode": "3IT213",
-          "courseName": "Computer and Wireless Networks",
-          "courseScore": "6/10",
-          "sn": 16
-        },
-        {
-          "courseCode": "3IT263",
-          "courseName": "Computer and Wireless Networks Lab",
-          "courseScore": "8/10",
-          "sn": 34
-        },
-        {
-          "courseCode": "3IT212",
-          "courseName": "Computer Organization and Architechture",
-          "courseScore": "7/10",
-          "sn": 18
-        },
-        {
-          "courseCode": "3IT372",
-          "courseName": "Parallel Programming Lab",
-          "courseScore": "10/10",
-          "sn": 32
-        },
-        {
-          "courseCode": "3IT324",
-          "courseName": "Information Storage and Management",
-          "courseScore": "6/10",
-          "sn": 21
-        },
-        {
-          "courseCode": "3MA204",
-          "courseName": "Linear Algebra",
-          "courseScore": "7/10",
+          "courseCode": "2140707",
+          "courseName": "Computer Organization",
+          "courseScore": "BB",
           "sn": 7
         },
         {
-          "courseCode": "3MA215",
-          "courseName": "Statistics and Fuzzy Systems",
-          "courseScore": "6/10",
+          "courseCode": "2140709",
+          "courseName": "Computer Networks",
+          "courseScore": "BC",
           "sn": 8
         },
         {
-          "courseCode": "3IT252",
-          "courseName": "Data Structures Lab",
-          "courseScore": "10/10",
-          "sn": 29
-        },
-        {
-          "courseCode": "3IT203",
-          "courseName": "Processor Architechture",
-          "courseScore": "7/10",
-          "sn": 17
-        },
-        {
-          "courseCode": "3IT281",
-          "courseName": "Mini Project - I",
-          "courseScore": "10/10",
-          "sn": 22
-        },
-        {
-          "courseCode": "3IT214",
-          "courseName": "System Programming",
-          "courseScore": "7/10",
-          "sn": 19
-        },
-        {
-          "courseCode": "3IT255",
-          "courseName": "Programming Lab - I (C++)",
-          "courseScore": "10/10",
-          "sn": 26
-        },
-        {
-          "courseCode": "3IT352",
-          "courseName": "Web Technology Lab",
-          "courseScore": "9/10",
-          "sn": 33
-        },
-        {
-          "courseCode": "3IT342",
-          "courseName": "Mini Project - IV",
-          "courseScore": "10/10",
-          "sn": 25
-        },
-        {
-          "courseCode": "3IT341",
-          "courseName": "Mini-Project - III",
-          "courseScore": "10/10",
-          "sn": 24
-        },
-        {
-          "courseCode": "3IT302",
-          "courseName": "Software Engineering Design",
-          "courseScore": "7/10",
-          "sn": 20
-        },
-        {
-          "courseCode": "3IT371",
-          "courseName": "Unix Operating System Lab",
-          "courseScore": "10/10",
-          "sn": 30
-        },
-        {
-          "courseCode": "3IT282",
-          "courseName": "Mini Project - II",
-          "courseScore": "10/10",
-          "sn": 23
-        },
-        {
-          "courseCode": "3IT265",
-          "courseName": "Programming Lab - II (Java)",
-          "courseScore": "10/10",
-          "sn": 27
-        },
-        {
-          "courseCode": "3IT312",
-          "courseName": "Cloud Computing",
-          "courseScore": "7/10",
-          "sn": 14
-        },
-        {
-          "courseCode": "3IT323",
-          "courseName": "Information Theory",
-          "courseScore": "8/10",
+          "courseCode": "2150002",
+          "courseName": "Institute Elective - Cyber Security",
+          "courseScore": "AB",
           "sn": 9
         },
         {
-          "courseCode": "2IT253",
-          "courseName": "Processor Architechture Lab",
-          "courseScore": "10/10",
-          "sn": 28
+          "courseCode": "2150703",
+          "courseName": "Analysis and Design of Algorithms",
+          "courseScore": "AB",
+          "sn": 10
         },
         {
-          "courseCode": "3IT351",
-          "courseName": "Database Engineering Lab",
-          "courseScore": "10/10",
-          "sn": 31
+          "courseCode": "2150704",
+          "courseName": "Object Oriented Programming using JAVA",
+          "courseScore": "AB",
+          "sn": 11
+        },
+        {
+          "courseCode": "2150708",
+          "courseName": "System Programming",
+          "courseScore": "AB",
+          "sn": 12
+        },
+        {
+          "courseCode": "2151603",
+          "courseName": "Computer Graphics",
+          "courseScore": "AB",
+          "sn": 13
         }
       ]
     },
     {
-      "periodStart": "April 2013",
-      "periodEnd": "May 2014",
-      "course": "All India Senior School Examination",
-      "score": "89.4%",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
+      "periodStart": "June 2015",
+      "periodEnd": "May 2017",
+      "course": "Degree of science in PCM",
+      "score": "85.00%",
+      "inst": "Ashadeep Vidyalaya",
+      "board": "GSEB",
       "courses": [
         {
           "courseCode": "041",
           "courseName": "Mathemactics",
-          "courseScore": "86/100",
+          "courseScore": "85/100",
           "sn": 1
         },
         {
@@ -252,39 +126,23 @@
         {
           "courseCode": "043",
           "courseName": "Chemistry",
-          "courseScore": "86/100",
+          "courseScore": "84/100",
           "sn": 3
         },
         {
           "courseCode": "083",
-          "courseName": "Computer Science",
-          "courseScore": "94/100",
+          "courseName": "Computer",
+          "courseScore": "89/100",
           "sn": 4
+        }
+        {
+          "courseCode": "085",
+          "courseName": "English",
+          "courseScore": "75/100",
+          "sn": 5
         }
       ]
     },
-    {
-      "periodStart": "April 2011",
-      "periodEnd": "May 2012",
-      "course": "All India Secondary School Examination",
-      "score": "10.00 CGPA",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
-      "courses": [
-        {
-          "courseCode": "041",
-          "courseName": "Mathemactics",
-          "courseScore": "10/10",
-          "sn": 1
-        },
-        {
-          "courseCode": "086",
-          "courseName": "Science",
-          "courseScore": "10/10",
-          "sn": 2
-        }
-      ]
-    }
   ],
   "skills": [
     {
