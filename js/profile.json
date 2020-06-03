@@ -146,11 +146,18 @@
     {
       "periodStart": "June 2004",
       "periodEnd": "May 2015",
-      "course": " ",
+      "course": " ABC ",
       "score": "99.63 percentile",
       "inst": "Hariom Vidyabhavan",
       "board": "GSEB",
-      "courses":[ ],
+      "courses": [ 
+        {
+          "courseCode": "085",
+          "courseName": "English",
+          "courseScore": "75/100",
+          "sn": 1
+        }      
+      ]
     }
   ],
   "skills": [
