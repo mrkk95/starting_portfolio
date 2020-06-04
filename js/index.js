@@ -149,79 +149,9 @@ $(window).resize(onWindowResize);
 var profile;
 swal({
 		title: "Hello World!!!",
-		text: "Hello visitor, you have landed upon little webspace of moghya. I hope you're doing well."
-		// buttons: ["Nope, I'm just looking around.", "Yes, I'm hiring :)"]
-		// buttons: {
-		// 	cancel: {
-		// 	  text: "Nope.",
-		// 	  value: false,
-		// 	  visible: true,
-		// 	  className: "button-cancel",
-		// 	  closeModal: true,
-		// 	},
-		// 	confirm: {
-		// 	  text: "Yes, I'm hiring.",
-		// 	  value: true,
-		// 	  visible: true,
-		// 	  className: "button-confirm",
-		// 	  closeModal: true
-		// 	}
-		// }
+		text: "Hello visitor, you have landed upon portfolio of Keyur Khunadiya. I hope you'll find relevant information here. If you need any other information, kindly reach to me."
 });
-//.then((value)=>{
-// 	if(value===true) {
-// 		swal({
-// 			title: "Hello Talent Scout,",
-// 			text: "Thank you for visiting my webspace. I hope you'll find relevant information here. If you need any other information, kindly reach to me. \n\n Do you need a copy of my resume?",
-// 			buttons: {
-// 				cancel: {
-// 				  text: "I have your resume.",
-// 				  value: false,
-// 				  visible: true,
-// 				  className: "button-cancel",
-// 				  closeModal: true,
-// 				},
-// 				confirm: {
-// 				  text: "Yes, sure.",
-// 				  value: true,
-// 				  visible: true,
-// 				  className: "button-confirm",
-// 				  closeModal: true
-// 				}
-// 			}
-// 		}).then((value)=>{
-// 			if(value===true) { 
-// 				window.open('/Resume_Shubham_Sawant.pdf');
-// 			}
-// 		})
-// 	}
-// });
 
-
-function loadMoghysSays() {
-	const moghyaSaysInnerHtml = `<div class="col m6">
-		<h6>Warm Gratitudes</h6>
-		<div class="row">
-			<div class="col m3 s3"><a href="https:https://pages.github.com/">Github Pages</a></div>
-			<div class="col m3 s3"><a href="https://stackoverflow.com/">Stack Overflow</a></div>
-			<div class="col m3 s3"><a href="https://jquery.com/">jQuery</a></div>
-			<div class="col m3 s3"><a href="http://materializecss.com/">Materialize</a></div>
-		</div>
-		<div class="row">
-			<div class="col m3 s3"><a href="https://fonts.google.com/">Google Fonts</a></div>	
-			<div class="col m3 s3"><a href="http://konpa.github.io/devicon/">Devicons</a></div>
-			<div class="col m3 s3"><a href="http://www.flaticon.com/">Flaticons</a></div>
-			<div class="col m3 s3"><a href="https://simpleicons.org/">SimpleIcons</a></div>				
-		</div>
-		<div class="row">
-			<div class="col m3 s3"><a href="http://noraesae.github.io/perfect-scrollbar/">Perfect Scrollbar</a></div>
-			<div class="col m3 s3"><a href="http://www.mattboldt.com/demos/typed-js/">TypedJs</a></div>					
-			<div class="col m3 s3"><a href="https://daneden.github.io/animate.css/">Animate.CSS</a></div>
-			<div class="col m3 s3"><a href="http://t4t5.github.io/sweetalert/">Sweetalert</a></div>
-		</div>
-	</div>`;
-	$('#moghyaSays').html(moghyaSaysInnerHtml);
-}
 
 $.get("js/profile.json", 
 	function(data, status){
@@ -257,7 +187,6 @@ $.get("js/profile.json",
 		loadProjects(profile.projects);
 		loadWorks(profile.experince);
 		loadEducations(profile.educations);
-		loadMoghysSays();
 		console.log('body loaded calling');
 		onBodyLoad();
 });
