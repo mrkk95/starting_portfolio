@@ -110,7 +110,7 @@ function loadLikes(likes){
 	var i;
 	var likesInnerHTML = '<h4>I like</h4>';
 	for(i=0;i<likes.length;i++){
-		likesInnerHTML+='<object type="image/svg+xml" data="img/'+likes[i].icon+''+likes[i].name+'"></object>'
+		likesInnerHTML+='<object type="image/svg+xml" data="img/'+likes[i].icon+likes[i].name+'"></object>'
 	}
 	$('#likes').html(likesInnerHTML);
 }
