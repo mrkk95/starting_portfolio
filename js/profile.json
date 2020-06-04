@@ -104,16 +104,6 @@
       ]
     },
     {
-      "course": "Extra courses",
-      "courses": [
-      {
-        "courseName": "C++",
-        "courseScore": "85/100",
-        "sn": 1
-      }
-    ]
-    },
-    {
       "periodStart": "June 2015",
       "periodEnd": "March 2017",
       "course": "Science Stream",
