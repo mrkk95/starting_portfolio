@@ -105,38 +105,38 @@
     },
     {
       "periodStart": "June 2015",
-      "periodEnd": "May 2017",
-      "course": "Degree of science in PCM",
-      "score": "85.00%",
+      "periodEnd": "March 2017",
+      "course": "Science Stream",
+      "score": "420/500",
       "inst": "Ashadeep Vidyalaya",
       "board": "GSEB",
       "courses": [
         {
-          "courseCode": "041",
+          "courseCode": "050",
           "courseName": "Mathemactics",
           "courseScore": "85/100",
           "sn": 1
         },
         {
-          "courseCode": "042",
+          "courseCode": "054",
           "courseName": "Physics",
           "courseScore": "87/100",
           "sn": 2
         },
         {
-          "courseCode": "043",
+          "courseCode": "052",
           "courseName": "Chemistry",
           "courseScore": "84/100",
           "sn": 3
         },
         {
-          "courseCode": "083",
+          "courseCode": "331",
           "courseName": "Computer",
           "courseScore": "89/100",
           "sn": 4
         },
         {
-          "courseCode": "085",
+          "courseCode": "013",
           "courseName": "English",
           "courseScore": "75/100",
           "sn": 5
@@ -144,19 +144,49 @@
       ]
     },
     {
-      "periodStart": "June 2004",
-      "periodEnd": "May 2015",
-      "course": " ABC ",
-      "score": "99.63 percentile",
+      "periodStart": "June 2014",
+      "periodEnd": "March 2015",
+      "course": "SSC",
+      "score": "535/600",
       "inst": "Hariom Vidyabhavan",
       "board": "GSEB",
       "courses": [ 
         {
-          "courseCode": "085",
-          "courseName": "English",
-          "courseScore": "75/100",
+          "courseCode": "11",
+          "courseName": "Science & Techno.",
+          "courseScore": "96/100",
           "sn": 1
-        }      
+        },
+        {
+          "courseCode": "10",
+          "courseName": "Social Science",
+          "courseScore": "91/100",
+          "sn": 2
+        },
+        {
+          "courseCode": "17",
+          "courseName": "Sanskrit",
+          "courseScore": "91/100",
+          "sn": 3
+        },
+        {
+          "courseCode": "86",
+          "courseName": "Gujarati",
+          "courseScore": "86/100",
+          "sn": 4
+        },
+        {
+          "courseCode": "16",
+          "courseName": "English",
+          "courseScore": "86/100",
+          "sn": 5
+        },
+        {
+          "courseCode": "12",
+          "courseName": "Mathematics",
+          "courseScore": "85/100",
+          "sn": 6
+        }        
       ]
     }
   ],
@@ -236,7 +266,7 @@
       "periodStart": "Nov 2019",
       "periodEnd": "March 2020",
       "toolsUsed": [
-        "Android Studio",
+        "Android Studio ,",
         "Firebase"
       ],
       "tags": [
@@ -246,10 +276,10 @@
         "Income-certificate"
       ],
       "shortInfo": "This project is on E-income-certificate generation. In this project I have made one application.This application accepts details from user and then generate one E-certificate. This certy generate based on your income text return and pan card details.",
-      "link": " "
+      "link": ""
     }
   ],
-  "summary": "<p>Hello, I'm a Data science enthusiast and B.E. Information Technology graduating student.</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
+  "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
   "profileLinks": [
     {
       "name": "Github",
@@ -314,24 +344,19 @@
       "sn": 6
     },
     {
-      "name": "Chicken",
-      "icon": "chicken.svg",
-      "sn": 7
-    },
-    {
       "name": "Cycling",
       "icon": "cycling.svg",
-      "sn": 8
+      "sn": 7
     },
     {
       "name": "Trekking",
       "icon": "trek.svg",
-      "sn": 9
+      "sn": 8
     },
     {
       "name": "Camping",
       "icon": "tent.svg",
-      "sn": 10
+      "sn": 9
     }
   ],
   "qoutes": [
@@ -341,5 +366,5 @@
     "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
     "Tabs are better than spaces."
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my portfolio.</p>\n<p>I am completing my B.E. degree in Information Technology from G H PATEL COLLEGE OF Engineering & Technology. I completed PCM subject in science field from Ashadeep Vidyalaya and my schooling of 1 to 10 from Hariom Vidyabhavan</a>.</p>\n\n<p>I'm interested in programming and Data science. I overwhelmingly like C++, Python :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  "helloText": "<p>Dear Visitor, Thank you for visiting my portfolio.</p>\n<p>I am studing Bachelor of Engineering in Information Technology from G H PATEL COLLEGE OF Engineering & Technology. I completed HSC in PCM from Ashadeep Vidyalaya and 1 to 10 school from Hariom Vidyabhavan</a>.</p>\n\n<p>I'm interested in programming and Data science. I overwhelmingly like C++, Python :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
