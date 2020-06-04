@@ -104,6 +104,16 @@
       ]
     },
     {
+      "course": "Extra courses",
+      "courses": [
+      {
+        "courseName": "C++",
+        "courseScore": "85/100",
+        "sn": 1
+      }
+    ]
+    },
+    {
       "periodStart": "June 2015",
       "periodEnd": "March 2017",
       "course": "Science Stream",
@@ -326,37 +336,37 @@
     {
       "name": "Armed Forces",
       "icon": "soldier.svg",
-      "sn": 3
+      "sn": 9
     },
     {
       "name": "Reading",
       "icon": "book.svg",
-      "sn": 4
+      "sn": 7
     },
     {
       "name": "Singing",
       "icon": "singer.svg",
-      "sn": 5
+      "sn": 8
     },
     {
       "name": "chess",
       "icon": "chess.svg",
-      "sn": 6
+      "sn": 3
     },
     {
       "name": "running",
       "icon": "running.svg",
-      "sn": 7
+      "sn": 4
     },
     {
       "name": "Trekking",
       "icon": "trek.svg",
-      "sn": 8
+      "sn": 5
     },
     {
       "name": "Camping",
       "icon": "tent.svg",
-      "sn": 9
+      "sn": 6
     }
   ],
   "qoutes": [
