@@ -339,13 +339,13 @@
       "sn": 5
     },
     {
-      "name": "Watermelon",
-      "icon": "watermelon.svg",
+      "name": "chess",
+      "icon": "chess.svg",
       "sn": 6
     },
     {
-      "name": "Cycling",
-      "icon": "cycling.svg",
+      "name": "running",
+      "icon": "running.svg",
       "sn": 7
     },
     {
