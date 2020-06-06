@@ -169,10 +169,10 @@ $.get("js/profile.json",
 		$('#tabs').html(`					
 			<li class="tab col s2"><a href="#hello">Hello</a></li>
 			<li class="tab col s2"><a href="#skills">Skills</a></li>
-			<li class="tab col s3"><a href="#certificates">Certificates</a></li>
+			<li class="tab col s2"><a href="#certificates">Certificates</a></li>
 			<li class="tab col s2"><a href="#projects">Projects</a></li>
-			<li class="tab col s3"><a href="#experience">Experience</a></li>
-			<li class="tab col s3"><a href="#education">Education</a></li>
+			<li class="tab col s2"><a href="#experience">Experience</a></li>
+			<li class="tab col s2"><a href="#education">Education</a></li>
 		`);
 		$('#believe').html('<h4>I believe</h4><span></span>');
 		const typed = new Typed('#believe span', {
