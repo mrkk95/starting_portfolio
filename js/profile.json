@@ -19,7 +19,7 @@
       "periodStart": "August 2017",
       "periodEnd": "May 2021",
       "course": "B.E. Information Technology",
-      "score": "9.1 CGPA",
+      "score": "9.1 CGPA(upto 6<sup>th</sup> sem)",
       "inst": "G H Patel College of Engineering & Technology",
       "board": "Gujarat Technological University",
       "courses": [
@@ -257,6 +257,26 @@
       "organisation": "Chegg",
       "experience": "Solving Questions related to Computer science.",
       "type": "work"
+    },
+    {
+      "sn": 2,
+      "link": "",
+      "workPosition": "",
+      "periodStart": "Oct 2019",
+      "periodEnd": "Oct 2019",
+      "organisation": "Digital Ocean",
+      "experience": "Took part in hactoberfest",
+      "type": "work"
+    },
+    {
+      "sn": 3,
+      "link": "",
+      "workPosition": "",
+      "periodStart": "Jan 2020",
+      "periodEnd": "Jan 2020",
+      "organisation": "Crio",
+      "experience": "Worked in weekend workshop of Crio Launch Tryouts",
+      "type": "work"
     }
   ],
   "projects": [
@@ -276,10 +296,30 @@
         "Income-certificate"
       ],
       "shortInfo": "This project is on E-income-certificate generation. In this project I have made one application.This application accepts details from user and then generate one E-certificate. This certy generate based on your income text return and pan card details.",
-      "link": ""
+      "link": "https://github.com/mrkk95/E-Income-Certificate-App"
+    },
+    {
+      "sn": 2,
+      "projectTitle": "covid-19",
+      "periodStart": "May 2020",
+      "periodEnd": "May 2020",
+      "toolsUsed": [
+        "HTML5,",
+        "CSS3,",
+        "Bootstrap"
+      ],
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "covid-19",
+        "Corona"
+      ],
+      "shortInfo": "This project is on corona virus awareness and prevention. In this project I have made one website related to corona virus awareness.This website shows how corona virus spread and how to prevent this virus.And also quiz related to corona is there for the viewers,so they can check thier knowledge about corona virus.",
+      "link": "https://mrkk95.github.io/covid-19%20website/index.html"
     }
   ],
-  "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
+  "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p><b>I'm currently searching internship in software development.</b>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
   "profileLinks": [
     {
       "name": "Github",
@@ -366,5 +406,5 @@
     "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
     "Tabs are better than spaces."
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my portfolio.</p>\n<p>I am studing Bachelor of Engineering in Information Technology from G H PATEL COLLEGE OF Engineering & Technology. I completed HSC in PCM from Ashadeep Vidyalaya and 1 to 10 school from Hariom Vidyabhavan</a>.</p>\n\n<p>I'm interested in programming and Data science. I overwhelmingly like C++, Python :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  "helloText": "<p>Dear Visitor, Thank you for visiting my portfolio.</p>\n<p>I am studing Bachelor of Engineering in Information Technology from G H PATEL COLLEGE OF Engineering & Technology. I completed HSC in PCM from Ashadeep Vidyalaya and 1 to 10 school from Hariom Vidyabhavan</a>.</p>\n\n<p>I'm interested in programming and Data science. I overwhelmingly like C++ and Python.<b>I am currently searching internship in software development.</b></p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
