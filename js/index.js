@@ -18,7 +18,7 @@ function loadSkills(skills){
 }
 
 function loadCerty(certificates){
-	certy.sort(function(a,b){
+	certificates.sort(function(a,b){
 		return a.sn-b.sn;
 	});
 	var i;
