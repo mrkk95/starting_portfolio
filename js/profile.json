@@ -279,6 +279,15 @@
       "type": "work"
     }
   ],
+  "certificates":[
+  	{
+  		"sn":1,
+  		"courseName": "Problem Solving Through Programming in C",
+  		"periodStart": "April 2018",
+  		"organisation": "NPTEL",
+  		"credit": ""
+  	}
+  ],
   "projects": [
     {
       "sn": 1,

@@ -17,6 +17,30 @@ function loadSkills(skills){
 		$('#skills').html(skillsInnerHTML);
 }
 
+function loadCerty(certificates){
+	certy.sort(function(a,b){
+		return a.sn-b.sn;
+	});
+	var i;
+	var certyInnerHTML = '';
+	for(i=0;i<certy.length;i++){
+		certyInnerHTML+=`
+		<div class="row certy">
+			<div class="row title">
+				${certy[i].courseName}  
+				(${certy[i].periodStart})
+			</div>
+			<div class="row">
+				${certy[i].organisation}
+			</div>
+			<div class="row">
+				<a href="${certy[i].credit}" target="_blank">See credential here</a>
+			</div>
+		</div>`;
+	}
+	$('#certificates').html(certyInnerHTML);
+}
+
 function loadProjects(projects){
 	projects.sort(function(a,b){
 		return a.sn-b.sn;
@@ -55,7 +79,7 @@ function loadWorks(experince){
 			<div class="row title">
 				${works[i].organisation} 
 				${works[i].workPosition} 
-				${works[i].periodStart} - ${works[i].periodEnd}
+				(${works[i].periodStart} - ${works[i].periodEnd})
 			</div>
 			<hr/>
 			<div class="row details">
@@ -185,6 +209,7 @@ $.get("js/profile.json",
 		$('#helloText').html(profile.helloText);
 		loadLinks(profile.profileLinks);
 		loadSkills(profile.skills);
+		loadCerty(profile.certificates);
 		loadProjects(profile.projects);
 		loadWorks(profile.experince);
 		loadEducations(profile.educations);
