@@ -412,7 +412,7 @@
       "link": "https://mrkk95.github.io/covid-19%20website/index.html"
     }
   ],
-  "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p><b>I'm currently searching internship in software development.</b>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
+  "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p><b>I'm currently searching internship in software development.</b>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.You can also see my coding profile on stopstalk.Stopstalk link is given below.Click on the link and visit my coding work.</p>",
   "profileLinks": [
     {
       "name": "Github",
@@ -433,9 +433,9 @@
       "sn": 5
     },
     {
-      "name": "StackOverflow",
-      "icon": "stack-overflow.png",
-      "link": "https://stackoverflow.com/users/13402075/keyur",
+      "name": "Stopstalk",
+      "icon": "stopstalk.svg",
+      "link": "https://www.stopstalk.com/user/profile/mr_kk_87",
       "sn": 3
     },
     {
@@ -499,5 +499,5 @@
     "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
     "Tabs are better than spaces."
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my portfolio.</p>\n<p>I am studing Bachelor of Engineering in Information Technology from G H PATEL COLLEGE OF Engineering & Technology. I completed HSC in PCM from Ashadeep Vidyalaya and 1 to 10 school from Hariom Vidyabhavan</a>.</p>\n\n<p>I'm interested in programming and Data science. I overwhelmingly like C++ and Python.<b>I am currently searching internship in software development.</b>You can see my coding profile from this link:<b> https://www.stopstalk.com/user/profile/mr_kk_87</b></p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  "helloText": "<p>Dear Visitor, Thank you for visiting my portfolio.</p>\n<p>I am studing Bachelor of Engineering in Information Technology from G H PATEL COLLEGE OF Engineering & Technology. I completed HSC in PCM from Ashadeep Vidyalaya and 1 to 10 school from Hariom Vidyabhavan</a>.</p>\n\n<p>I'm interested in programming and Data science. I overwhelmingly like C++ and Python.<b>I am currently searching internship in software development.</b></p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
