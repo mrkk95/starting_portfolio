@@ -286,6 +286,90 @@
   		"periodStart": "April 2018",
   		"organisation": "NPTEL",
   		"credit": ""
+  	},
+  	{
+  		"sn":2,
+  		"courseName": "Data Base Management Systems",
+  		"periodStart": "Sep 2018",
+  		"organisation": "NPTEL",
+  		"credit": ""
+  	},
+  	{
+  		"sn":3,
+  		"courseName": "What is Data Science?",
+  		"periodStart": "March 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/verify/AXN4BBW8RBSZ"
+  	},
+  	{
+  		"sn":4,
+  		"courseName": "Python for Data Science and AI",
+  		"periodStart": "April 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/9UXYVSY44KXW"
+  	},
+  	{
+  		"sn":5,
+  		"courseName": "Databases and SQL for Data Science",
+  		"periodStart": "April 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/78GNRVSAZRLC"
+  	},
+  	{
+  		"sn":6,
+  		"courseName": "Data Science Methodology",
+  		"periodStart": "April 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/4BATR3PMQKQR"
+  	},
+  	{
+  		"sn":7,
+  		"courseName": "Data Analysis with Python",
+  		"periodStart": "April 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.youracclaim.com/badges/9f7686e8-2b0e-4a9e-bf18-a68b11f78877/linked_in_profile"
+  	},
+  	{
+  		"sn":8,
+  		"courseName": "Open Source tools for Data Science",
+  		"periodStart": "April 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/BNEGDH78EHBV"
+  	},
+  	{
+  		"sn":9,
+  		"courseName": "Machine Learning with Python",
+  		"periodStart": "May 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/3ASJQ493GHS2"
+  	},
+  	{
+  		"sn":10,
+  		"courseName": "Data Visualization with Python",
+  		"periodStart": "May 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/XKVKNZ32K3DE"
+  	},
+  	{
+  		"sn":11,
+  		"courseName": "Applied Data Science Capstone",
+  		"periodStart": "May 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/certificate/YAAGNKXWLYSV"
+  	},
+  	{
+  		"sn":12,
+  		"courseName": "IBM Data Science Specialization",
+  		"periodStart": "May 2020",
+  		"organisation": "Coursera",
+  		"credit": "https://www.coursera.org/account/accomplishments/specialization/certificate/P7C4GNNLU394"
+  	},
+  	{
+  		"sn":13,
+  		"courseName": "Career Edge - Knockdown the Lockdown",
+  		"periodStart": "May 2020",
+  		"organisation": "TCS iON LifeLong Learning",
+  		"credit": ""
   	}
   ],
   "projects": [
