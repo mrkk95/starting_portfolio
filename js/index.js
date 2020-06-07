@@ -23,18 +23,18 @@ function loadCerty(certificates){
 	});
 	var i;
 	var certyInnerHTML = '';
-	for(i=0;i<certy.length;i++){
+	for(i=0;i<certificates.length;i++){
 		certyInnerHTML+=`
 		<div class="row certy">
 			<div class="row title">
-				${certy[i].courseName}  
-				(${certy[i].periodStart})
+				${certificates[i].courseName}  
+				(${certificates[i].periodStart})
 			</div>
 			<div class="row">
-				${certy[i].organisation}
+				${certificates[i].organisation}
 			</div>
 			<div class="row">
-				<a href="${certy[i].credit}" target="_blank">See credential here</a>
+				<a href="${certificates[i].credit}" target="_blank">See credential here</a>
 			</div>
 		</div>`;
 	}
