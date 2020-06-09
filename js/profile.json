@@ -418,7 +418,7 @@
       "periodEnd": "June 2020",
       "toolsUsed": [
         "RestAPI,",
-        "Fast2sms,"
+        "Fast2sms"
       ],
       "tags": [
         "Python_gui",
