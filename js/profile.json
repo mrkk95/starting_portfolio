@@ -429,6 +429,25 @@
       ],
       "shortInfo": "In this application I have created python gui.From which we can send sms to anyone from our laptop.In this app I have used RestAPI of Fast2sms-api.If we don't have our mobile then this app make easier to send message to anyone from our laptop from anywhere.",
       "link": "https://github.com/mrkk95/Message_Sender"
+    },
+    {
+      "sn": 4,
+      "projectTitle": "Simple Stock Web App",
+      "periodStart": "June 2020",
+      "periodEnd": "June 2020",
+      "toolsUsed": [
+        "Streamlit,",
+        "Visual studio Code"
+      ],
+      "tags": [
+        "Python",
+        "Streamlit",
+        "Web-App",
+        "Data Science",
+        "Apple"
+      ],
+      "shortInfo": "I have Created Data Science web app in python which shows volume and closing price of Apple company.I have used streamlit directly which is very helpful in creating web app.",
+      "link": "https://github.com/mrkk95/streamlit"
     }
   ],
   "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p><b>I'm currently searching internship in software development.</b>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.You can also see my coding profile on stopstalk.Stopstalk link is given below.Click on the link and visit my coding work.</p>",
