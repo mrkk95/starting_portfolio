@@ -429,6 +429,43 @@
       ],
       "shortInfo": "In this application I have created python gui.From which we can send sms to anyone from our laptop.In this app I have used RestAPI of Fast2sms-api.If we don't have our mobile then this app make easier to send message to anyone from our laptop from anywhere.",
       "link": "https://github.com/mrkk95/Message_Sender"
+    },
+    {
+      "sn": 4,
+      "projectTitle": "Simple Stock Web App",
+      "periodStart": "June 2020",
+      "periodEnd": "June 2020",
+      "toolsUsed": [
+        "Streamlit,",
+        "Visual studio Code"
+      ],
+      "tags": [
+        "Python",
+        "Streamlit",
+        "Web-App",
+        "Data Science",
+        "Apple"
+      ],
+      "shortInfo": "I have Created Data Science web app in python which shows volume and closing price of Apple company.I have used streamlit directly which is very helpful in creating web app.",
+      "link": "https://github.com/mrkk95/streamlit"
+    },
+    {
+      "sn": 5,
+      "projectTitle": "Keyur Ice Cream",
+      "periodStart": "June 2020",
+      "periodEnd": "June 2020",
+      "toolsUsed": [
+        "Django Framework ,",
+        "Visual Studio Code"
+      ],
+      "tags": [
+        "Django_Framework",
+        "Visual_Studio_Code",
+        "python3",
+        "Bootstrap"
+      ],
+      "shortInfo": "I have created one website for selling of Ice Cream using Django framework.It will usefull for Ice Cream seller to sell online thier product.That's why I have created this project.You can see code and screenshots from given link.",
+      "link": "https://github.com/mrkk95/Django-Website"
     }
   ],
   "summary": "<p>Hello, I'm a Data science enthusiast and studing B.E. in Information Technology field(currently in 3<sup>rd</sup> year).</p>\n\n<p><b>I'm currently searching internship in software development.</b>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.You can also see my coding profile on stopstalk.Stopstalk link is given below.Click on the link and visit my coding work.</p>",
